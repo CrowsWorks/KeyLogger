@@ -1,2 +1,2 @@
 # KeyLogger
-Making of keylogger in python
+My first KeyLogger in python. It is easier than I thought...
